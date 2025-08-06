@@ -307,3 +307,9 @@ https://abc-live00.ipcasting.jp/ch02s/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球",球場全景
 https://abc-live00.ipcasting.jp/ch03s/live.m3u8
+
+#EXTINF:-1 tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="高校野球",NHK G (US server)
+https://us.utako.moe/NHK_G/index.m3u8
+
+#EXTINF:-1 tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="高校野球",NHK E (US server)
+https://us.utako.moe/NHK_E/index.m3u8
